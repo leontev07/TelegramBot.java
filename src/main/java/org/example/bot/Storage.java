@@ -9,17 +9,17 @@ public class Storage {
         quoteList = new ArrayList<>();
         quoteList.add(
                 "Если у вас заблокировалась учётка, её можно восстановить самостоятельно с помощью ADSelf Service Plus.\n"+
-                "Для регистрации в ADSELF SERVICE PLUS необходимо воспользоваться инструкцией https://drive.google.com/file/d/1dbdgSBYT4GhRNzj3N-EwDWJmT9QdfMLY/view?usp=sharing\n"+
-                "Инструкция по смене пароля - https://drive.google.com/file/d/1TTK_bxI9FO_VsKiptGl1VdU0uRrksgi4/view\n"+
-                "Инструкция по разблокировке учётной записи - https://drive.google.com/file/d/1lrALI0ahCNs0sBqep-Wuw4UW_2UpWDbd/view");
-        quoteList.add("Список ссылок для новичков - https://conf.goods.ru/pages/viewpage.action?pageId=259590143\n"+" \n"+
-                "Инструкции по макросам Content_Helper - https://conf.goods.ru/pages/viewpage.action?pageId=217455969\n"+" \n"+
-                "Инструкция по работе с тикетами https://conf.goods.ru/pages/viewpage.action?pageId=212313495\n"+" \n" +
-                "Список формул Excel и их значения + лайфхаки https://conf.goods.ru/pages/viewpage.action?pageId=217448932");
-        quoteList.add("Контакты контента - https://conf.goods.ru/pages/viewpage.action?pageId=264256730");
+                "Для регистрации в ADSELF SERVICE PLUS необходимо воспользоваться инструкцией https://drive.google.com/file/d/**/view?usp=sharing\n"+
+                "Инструкция по смене пароля - https://drive.google.com/file/d/**/view\n"+
+                "Инструкция по разблокировке учётной записи - https://drive.google.com/file/d/**/view");
+        quoteList.add("Список ссылок для новичков - https://conf.**/pages/viewpage.action?pageId=259590143\n"+" \n"+
+                "Инструкции по макросам Content_Helper - https://conf.**/pages/viewpage.action?pageId=217455969\n"+" \n"+
+                "Инструкция по работе с тикетами https://conf.**/pages/viewpage.action?pageId=212313495\n"+" \n" +
+                "Список формул Excel и их значения + лайфхаки https://conf.**/pages/viewpage.action?pageId=217448932");
+        quoteList.add("Контакты контента - https://conf.**/pages/viewpage.action?pageId=264256730");
         quoteList.add("Напиши боту @smm_content_support_bot");
-        quoteList.add("Список формул Excel и их значения + лайфхаки https://conf.goods.ru/pages/viewpage.action?pageId=217448932");
-        quoteList.add("Примечания в PIM - Новый формат (Нидерландские, Немецкие, Испанские: ведение данных https://conf.goods.ru/pages/viewpage.action?pageId=242028936");
+        quoteList.add("Список формул Excel и их значения + лайфхаки https://conf.**/pages/viewpage.action?pageId=217448932");
+        quoteList.add("Примечания в PIM - Новый формат (Нидерландские, Немецкие, Испанские: ведение данных https://conf.**/pages/viewpage.action?pageId=242028936");
     }
 
     String getInstruction()
